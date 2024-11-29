@@ -1,0 +1,3 @@
+myname = "Mercyline"
+
+print (myname)
